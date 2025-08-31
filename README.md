@@ -42,13 +42,6 @@ The dashboard enables users to explore key job market trends in the data industr
 - Conditional Formatting
 - Charts: Column, Pie, and Bar
 
----
-
-## 📁 Included Files
-
-- `Excel_Dashboard_DS_Jobs.xlsx` – full interactive Excel dashboard
-- `dashboard_preview.png` – high-resolution dashboard screenshot
-- `README.md` – this project description
 
 ---
 

@@ -42,15 +42,8 @@ The dashboard enables users to explore key job market trends in the data industr
 - Conditional Formatting
 - Charts: Column, Pie, and Bar
 
-
 ---
 
-## 🧩 Dataset Details
-
-**Source:** [Kaggle – Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)  
-Contains ~600 job listings with data on salaries, experience, work type, region, and company information.
-
----
 
 ## 👋 Author
 
